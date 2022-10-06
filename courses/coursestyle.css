@@ -1,0 +1,52 @@
+#lower {
+    padding: 10px;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+}
+
+#contentBox {
+    width: 80%;
+    justify-content: left;
+}
+
+#vm {
+    display: flex;
+    justify-content: space-between;
+}
+
+#container {
+    width: 40%;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: steelblue;
+    align-items: center;
+    justify-content: center;
+}
+
+#container p {
+    color: white;
+}
+
+#container ul li {
+    font-size: 20px;
+    color: white;
+    list-style-type: disc;
+    padding-right: 25px;
+}
+
+#box li {
+    font-size: 20px;
+}
+
+#features {
+    width: 100%;
+    text-align: left;
+}
+
+#features li {
+    list-style-type: disc;
+}
